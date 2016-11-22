@@ -1,7 +1,7 @@
 {
   "name": "node-rapidjson",
   "version": "1.0.0",
-  "description": "",
+  "description": "Node.js ↔︎ C++ bindings for RapidJSON",
   "main": "index.js",
   "dependencies": {
     "bindings": "^1.2.1"
